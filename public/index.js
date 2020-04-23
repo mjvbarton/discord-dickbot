@@ -7,5 +7,5 @@ client.on("message", (msg) => {
     if(msg.content === "/dick"){
         msg.reply("3=========D");
     }
-    
+    //none
 });
